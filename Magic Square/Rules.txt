@@ -1,0 +1,2 @@
+Complete the square with numbers from 1 to 16 to create a magic square, each number can be used 1 time. A magic square
+has sums of rows, columns and diagonals equals.
